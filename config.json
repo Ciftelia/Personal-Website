@@ -1,14 +1,14 @@
 {
   "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "John Doe",
-  "ascii": "liveterm",
+  "title": "Ciftelia",
+  "name": "Klodiana Kamberi",
+  "ascii": "Ciftelia",
   "social": {
-    "github": "github",
-    "linkedin": "linkedin"
+    "github": "Ciftelia",
+    "linkedin": "klodiana-kamberi-b840702a7/"
   },
-  "email": "contact@email.com",
-  "ps1_hostname": "liveterm",
+  "email": "klodiana.kamberi87@gmail.com",
+  "ps1_hostname": "Ciftelia",
   "ps1_username": "visitor",
   "repo": "https://github.com/Cveinnt/LiveTerm",
   "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
@@ -27,13 +27,13 @@
       "red": "#CA2124"
     },
     "dark": {
-      "background": "#2E3440",
-      "foreground": "#E5E9F0",
-      "yellow": "#5E81AC",
-      "green": "#A3BE8C",
-      "gray": "#88C0D0",
+      "background": "#230B5E",
+      "foreground": "#FFE0E0",
+      "yellow": "#FFA5A5",
+      "green": "#EC368D",
+      "gray": "#B4CDED",
       "blue": "#EBCB8B",
-      "red": "#BF616A"
+      "red": "#FFFFFF"
     }
   }
 }
